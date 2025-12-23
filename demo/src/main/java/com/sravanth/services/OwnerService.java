@@ -1,4 +1,4 @@
-package com.sravanth.service;
+package com.sravanth.services;
 
 import com.sravanth.exception.OwnerNotFoundException;
 
